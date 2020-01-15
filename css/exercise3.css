@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: darkblue;
+}
+h1{
+    border-bottom: black;
+    color: red;
+    font-size: 16px;
+    text-align: center;
+}
+a{
+   color: darkmagenta;
+   text-decoration-line: underline;  
+}
+a:hover{
+   font-size: larger; 
+}
+figcaption{
+    font-style: italic;
+    text-align: right;
+    font-size: 10px;
+    color: black;
+}
