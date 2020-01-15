@@ -25,3 +25,8 @@
     background-color: green;
     min-height: 400px;
 }
+header, footer{
+
+    background-color:yellowgreen;
+    height: 100px; 
+}
